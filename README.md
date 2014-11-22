@@ -3,7 +3,7 @@
 Bitpay command line tool and REST API client for Go
 [https://bitpay.com/api](https://bitpay.com/api)
 
-[![GoDoc](https://godoc.org/github.com/fundary/paypal?status.svg)](https://godoc.org/github.com/fundary/paypal)
+[![GoDoc](https://godoc.org/github.com/fundary/bitpay?status.svg)](https://godoc.org/github.com/fundary/bitpay)
 
 ## Status
 
